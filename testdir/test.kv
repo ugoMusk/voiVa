@@ -1,0 +1,15 @@
+<OutlinedMDTextField@MDTextField>:
+    canvas.before:
+        Color:
+            rgba: self.helper_text_color
+        Line:
+            width: 1.2
+            rectangle: self.x, self.y, self.width, self.height
+
+<OutlinedLabel@MDLabel>:
+    canvas.before:
+        Color:
+            rgba: 0, 0, 0, 1  # Outline color
+        Line:
+            width: 1.2  # Outline width
+            rectangle: self.x, self.y, self.width, self.height
