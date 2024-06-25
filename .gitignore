@@ -1,0 +1,3 @@
+# ignore python environments
+*.voiva
+*.tacotron2
