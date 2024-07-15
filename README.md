@@ -53,4 +53,4 @@ pip install -r requirements.txt
 - **Offline Capability**: Works offline, making it accessible anywhere, anytime.
 
 ## Authors
-- **ugoMusk**
+- **(ugoMusk)[https://github.com/ugoMusk]**
