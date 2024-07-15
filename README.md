@@ -13,7 +13,7 @@ On Ubuntu use the following commands to install python3.9
 ``` sudo apt-get install python3.9-distutils ```
 ``` sudo apt install python3.9 python3.9-dev ```
 
-Python 3.9 is now installed, but may not be the default version on your machine. So ensure you use the command ```python3.9`` each time you want to run the program, or follow the steps below to set python3.9 as the default python version for your environment.
+Python 3.9 is now installed, but may not be the default version on your machine. So ensure you use the command ```python3.9``` each time you want to run the program, or follow the steps below to set python3.9 as the default python version for your environment.
 
 (a) Check your python version with the command:
 ``` python3 -V ```
